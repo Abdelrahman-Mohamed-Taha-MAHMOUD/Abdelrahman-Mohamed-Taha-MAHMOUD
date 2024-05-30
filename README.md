@@ -1,4 +1,4 @@
-## Hi there 👋
+M.Sc. Student (S-DISCO) International Master of Science in Sustainable Drug Discovery
 
 <!--
 **Abdelrahman-Mohamed-Taha-MAHMOUD/Abdelrahman-Mohamed-Taha-MAHMOUD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
