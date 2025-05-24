@@ -57,7 +57,7 @@
 🔗 [GitHub Repo](https://github.com/yourusername/IL12-study) | 🗓️ Dec 2025  
 *Presented at Ghent University Research Day*  
 - Molecular dynamics simulations using GROMACS  
-- Structural analysis with PyMOL/VMD  
+- Structural analysis with MDAnalysis/VMD  
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Abdelrahman-Mohamed-Taha-MAHMOUD/Abdelrahman-Mohamed-Taha-MAHMOUD/main/divider.svg" width="80%"/>
