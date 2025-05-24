@@ -3,11 +3,7 @@
 </p>
 
 
-### Abdelrahman Mohamed Taha Mahmoud  
-
-<p align="center">
-**Computational Biologist | Sustainable Drug Discovery**  
-</p>
+### Abdelrahman MAHMOUD 
 
 ## 🔬 Technical Expertise
 
