@@ -3,7 +3,6 @@
 </p>
 
 
-### Abdelrahman MAHMOUD 
 
 ## 🔬 Technical Expertise
 
