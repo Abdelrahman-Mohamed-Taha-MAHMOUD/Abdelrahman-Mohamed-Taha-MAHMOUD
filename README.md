@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/Abdelrahman-Mohamed-Taha-MAHMOUD/Abdelrahman-Mohamed-Taha-MAHMOUD/main/banner.png" alt="Computational Drug Discovery Banner" width="80%"/>
 </p>
 
-<div align="center">
 
 ### Abdelrahman Mohamed Taha Mahmoud  
 **Computational Biologist | Sustainable Drug Discovery Scholar**  
@@ -10,11 +9,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahmanmohamedtaha.mahmoud@ugent.be)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelrahman-Mohamed-Taha-MAHMOUD)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahman-Mohamed-Taha-MAHMOUD&color=4682B4&style=flat-square)
-  
-<img src="https://raw.githubusercontent.com/Abdelrahman-Mohamed-Taha-MAHMOUD/Abdelrahman-Mohamed-Taha-MAHMOUD/main/divider.svg" width="80%"/>
-
-</div>
 
 ## 🔬 Technical Expertise
 
@@ -22,9 +16,6 @@
 |-------------------------|------------------|-----------|-------------|
 | <div align="left">![GROMACS](https://img.shields.io/badge/GROMACS-4682B4?style=flat-square) ![VMD](https://img.shields.io/badge/VMD-708090?style=flat-square) ![AlphaFold](https://img.shields.io/badge/AlphaFold-FF6F00?style=flat-square) <br>![PyMOL](https://img.shields.io/badge/PyMOL-00A6D6?style=flat-square) ![HADDOCK](https://img.shields.io/badge/HADDOCK-005A8C?style=flat-square) <br>Molecular Dynamics • Docking • QSAR</div> | <div align="left">![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square) <br>Machine Learning • Cheminformatics</div> | <div align="left">![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r) ![Bioconductor](https://img.shields.io/badge/Bioconductor-3693D3?style=flat-square) <br>NGS • RNA-seq • Pharmacogenomics</div> | <div align="left">PCR • Chromatography <br>3D Bioprinting • Spectroscopy <br>CRISPR • Protein Purification</div> |
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Abdelrahman-Mohamed-Taha-MAHMOUD/Abdelrahman-Mohamed-Taha-MAHMOUD/main/divider.svg" width="80%"/>
-</div>
 
 ## 🏆 Notable Achievements
 
@@ -33,9 +24,6 @@
 - 📜 **First-Class Honors**: B.Sc. Biotechnology (Minia University, GPA 3.91/4)
 - 🧪 **Research Presenter**: FEBS Congress 2023 • Ghent University Research Day 2025
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Abdelrahman-Mohamed-Taha-MAHMOUD/Abdelrahman-Mohamed-Taha-MAHMOUD/main/divider.svg" width="80%"/>
-</div>
 
 ## 📚 Academic Journey
 
@@ -47,9 +35,6 @@
 | 2019–2022 | Minia University (Egypt) | Teaching/Research Assistant |
 | 2014–2018 | Minia University (Egypt) | B.Sc. Agricultural Biotechnology |
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Abdelrahman-Mohamed-Taha-MAHMOUD/Abdelrahman-Mohamed-Taha-MAHMOUD/main/divider.svg" width="80%"/>
-</div>
 
 ## 📌 Featured Projects
 
@@ -59,9 +44,6 @@
 - Molecular dynamics simulations using GROMACS  
 - Structural analysis with MDAnalysis/VMD  
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Abdelrahman-Mohamed-Taha-MAHMOUD/Abdelrahman-Mohamed-Taha-MAHMOUD/main/divider.svg" width="80%"/>
-</div>
 
 ## 📬 Let's Connect!
 
