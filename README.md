@@ -7,8 +7,7 @@
 |  |  |
 |--|--|
 | **Name:** | Abdelrahman Mohamed Taha Mahmoud |
-| **Role:** | Computational Biology & Drug Discovery Researcher |
-| **Location:** | Ghent, Belgium |
+| **Role:** | Computational Biology & Drug Discovery |
 
 </div>
 
@@ -24,28 +23,17 @@
   <img src="https://raw.githubusercontent.com/Abdelrahman-Mohamed-Taha-MAHMOUD/Abdelrahman-Mohamed-Taha-MAHMOUD/main/divider.svg" width="80%"/>
 </p>
 
-# Abdelrahman Mohamed Taha Mahmoud
+# Abdelrahman MAHMOUD
 
 > <b>“Advancing drug discovery through computational innovation.”</b>
 
 ## Technical Skills
 
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![GROMACS](https://img.shields.io/badge/GROMACS-4682B4?style=flat-square)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![VMD](https://img.shields.io/badge/VMD-708090?style=flat-square)
-![PLUMED](https://img.shields.io/badge/PLUMED-4682B4?style=flat-square)
-
-| Computational Biology | Data Science & ML | Bioinformatics | Laboratory |
-|----------------------|-------------------|---------------|------------|
-| VMD, GROMACS, PLUMED | Python, ML        | NGS, R        | PCR, Gel   |
-| CHARMM-GUI, PyMOL    | Data Analysis     | RNA-seq       | 3D Printing|
-
-* **Computational Biology & Drug Discovery:** VMD (Visual Molecular Dynamics), GROMACS, MDAnalysis (Python), PLUMED, PROPKA, CHARMM-GUI, AlphaFold, Modeller, PyMOL, HADDOCK, GNINA, virtual screening, pharmacophore modeling, docking, 3D-QSAR (CoMFA), cheminformatics, QSAR.
-* **Data Science & Machine Learning:** Python programming (data analysis, machine learning).
-* **Bioinformatics & Omics:** Next-generation sequencing data analysis (ChIP-seq, RNA-seq, single-cell), pharmacogenomics; R programming.
-* **Laboratory Techniques:** DNA/RNA extraction, PCR, gel electrophoresis, molecular markers (AFLP, RFLP, ISSR), plant tissue culture, microbiology techniques, 3D printing; basic chromatography and spectroscopy.
-* **Languages:** Arabic (native), English (professional).
+---------------------------------------------------------------------------------------------------------------------------------------------
+| **Computational Biology & Drug Discovery** | **Data Science & Machine Learning** | **Bioinformatics & Omics** | **Laboratory Techniques** |
+|--------------------------------------------|-------------------------------------|----------------------------|---------------------------|
+| ![VMD](https://img.shields.io/badge/VMD-708090?style=flat-square) (Visual Molecular Dynamics), ![GROMACS](https://img.shields.io/badge/GROMACS-4682B4?style=flat-square), ![MDAnalysis](https://img.shields.io/badge/MDAnalysis-375EAB?style=flat-square) (Python), ![PLUMED](https://img.shields.io/badge/PLUMED-4682B4?style=flat-square), ![PROPKA](https://img.shields.io/badge/PROPKA-FF8C00?style=flat-square), ![CHARMM--GUI](https://img.shields.io/badge/CHARMM--GUI-0047AB?style=flat-square), ![AlphaFold](https://img.shields.io/badge/AlphaFold-FF6F00?style=flat-square&logo=alphafold&logoColor=white), ![Modeller](https://img.shields.io/badge/Modeller-6A5ACD?style=flat-square), ![PyMOL](https://img.shields.io/badge/PyMOL-00A6D6?style=flat-square&logo=pymol&logoColor=white), ![HADDOCK](https://img.shields.io/badge/HADDOCK-005A8C?style=flat-square), ![GNINA](https://img.shields.io/badge/GNINA-32CD32?style=flat-square), virtual screening, pharmacophore modeling, docking, 3D-QSAR (CoMFA), cheminformatics, QSAR | ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) programming | NGS, ChIP-seq, RNA-seq, ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) programming, single-cell, pharmacogenomics | DNA/RNA extraction, PCR, gel electrophoresis, plant tissue culture, microbiology techniques, 3D printing, chromatography, spectroscopy |
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Abdelrahman-Mohamed-Taha-MAHMOUD/Abdelrahman-Mohamed-Taha-MAHMOUD/main/divider.svg" width="80%"/>
@@ -67,10 +55,10 @@
 
 - <b>2024–Present</b> &nbsp; 🧪 &nbsp; <b>Ghent University – Center for Molecular Modeling</b> — Master's Thesis Student
 - <b>2023–2025</b> &nbsp; 🏫 &nbsp; <b>Ghent University (Belgium)</b> — M.Sc. Sustainable Drug Discovery (Erasmus Mundus S-DISCO)
-- <b>2023</b> &nbsp; 🌍 &nbsp; <b>University of Lille 1 (France)</b> — Study Abroad, S-DISCO program
-- <b>2023</b> &nbsp; 🌍 &nbsp; <b>Medical University of Gdańsk (Poland)</b> — Study Abroad, S-DISCO program
-- <b>2019–2022</b> &nbsp; 👨‍🏫 &nbsp; <b>Minia University</b> — Graduate Research and Teaching Assistant
+- <b>2023</b> &nbsp; 🌍 &nbsp; <b>University of Lille 1 (France)</b> — S-DISCO program
+- <b>2023</b> &nbsp; 🌍 &nbsp; <b>Medical University of Gdańsk (Poland)</b> — S-DISCO program
 - <b>2022–2023</b> &nbsp; 🧬 &nbsp; <b>BioActive Research Group</b> — Student Intern
+- <b>2019–2022</b> &nbsp; 👨‍🏫 &nbsp; <b>Minia University</b> — Graduate Research and Teaching Assistant
 - <b>2014–2018</b> &nbsp; 🎓 &nbsp; <b>Minia University (Egypt)</b> — B.Sc. in Agricultural Biotechnology (First in cohort)
 
 <p align="center">
